@@ -95,5 +95,4 @@ class DetailViewController: UIViewController {
         // Показываем Action Sheet
         present(actionSheet, animated: true)
     }
-    
 }
